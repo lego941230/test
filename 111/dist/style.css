@@ -35,3 +35,13 @@ min-height:100%;
 z-index:-1;  
 
 }
+h1{
+  font-size:39pt ;
+  text-align:center ;
+  color: #ff5599;
+}
+h2{
+  font-size:99pt ;
+  text-align:center ;
+  color: #775599;
+}
